@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "777550242394",
+    "project_id": "zc-tour-map-app",
+    "storage_bucket": "zc-tour-map-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777550242394:android:48f60974444fe98540ae63",
+        "android_client_info": {
+          "package_name": "com.online.zambotourapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777550242394-f1qlgg30q640fk8rubc175ckr8hbajv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPFFThIlez5YTXVYu9AFBq0GcsAqX1Xlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777550242394-f1qlgg30q640fk8rubc175ckr8hbajv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777550242394:android:286e21e780a023ff40ae63",
+        "android_client_info": {
+          "package_name": "com.thesis.zambo_tour_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777550242394-8c41amjelbhtpdvoab63iup6hcis6lsq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thesis.zambo_tour_app",
+            "certificate_hash": "e9a095706067dd2417c1e0849fdd64ab213b2f51"
+          }
+        },
+        {
+          "client_id": "777550242394-f1qlgg30q640fk8rubc175ckr8hbajv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPFFThIlez5YTXVYu9AFBq0GcsAqX1Xlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777550242394-f1qlgg30q640fk8rubc175ckr8hbajv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
